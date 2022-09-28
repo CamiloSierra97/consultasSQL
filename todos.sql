@@ -34,6 +34,8 @@ insert into todos
         false,
 		'2022/09/24'
     );
+
+    
 select * from todos;
 
 select * from todos where is_completed = true;
